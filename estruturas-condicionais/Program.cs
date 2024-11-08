@@ -15,29 +15,51 @@
 //    Console.WriteLine($"Média {mediaNota:F2}: Aprovado");
 //}
 
-Console.WriteLine("Digite uma vogal: ");
-string? letra = Console.ReadLine();
-if (letra == "a" || letra == "A")
-{
-    Console.WriteLine($"Você digitou a vogal: {letra}");
-}
-else if (letra == "e" || letra == "E")
-{
-    Console.WriteLine($"Você digitou a vogal: {letra}");
-}
-else if (letra == "i" || letra == "I")
-{
-    Console.WriteLine($"Você digitou a vogal: {letra}");
-}
-else if (letra == "o" || letra == "O")
-{
-    Console.WriteLine($"Você digitou a vogal: {letra}");
-}
-else if (letra == "u" || letra == "U")
-{
-    Console.WriteLine($"Você digitou a vogal: {letra}");
-}
-else
-{
-    Console.WriteLine($"A letra {letra} não é uma vogal.");
-}
+//Console.WriteLine("Digite uma vogal: ");
+//string? letra = Console.ReadLine();
+//if (letra == "a" || letra == "A")
+//{
+//    Console.WriteLine($"Você digitou a vogal: {letra}");
+//}
+//else if (letra == "e" || letra == "E")
+//{
+//    Console.WriteLine($"Você digitou a vogal: {letra}");
+//}
+//else if (letra == "i" || letra == "I")
+//{
+//    Console.WriteLine($"Você digitou a vogal: {letra}");
+//}
+//else if (letra == "o" || letra == "O")
+//{
+//    Console.WriteLine($"Você digitou a vogal: {letra}");
+//}
+//else if (letra == "u" || letra == "U")
+//{
+//    Console.WriteLine($"Você digitou a vogal: {letra}");
+//}
+//else
+//{
+//    Console.WriteLine($"A letra {letra} não é uma vogal.");
+//}
+
+// Console.WriteLine("Digite uma vogal: ");
+// string? letra = Console.ReadLine();
+// string letraMinuscula = letra.ToLower();
+
+// switch (letraMinuscula)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine($"A letra '{letraMinuscula}' é uma vogal.");
+//         break;    
+//     default:
+//         Console.WriteLine($"A letra '{letraMinuscula}' não é uma vogal.")
+//         break;
+// }
+
+int idade = 18;
+string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
+Console.WriteLine(mensagem)

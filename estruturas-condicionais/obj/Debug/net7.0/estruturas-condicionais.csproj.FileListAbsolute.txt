@@ -12,3 +12,7 @@ C:\Users\SENAC\Desktop\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\
 C:\Users\SENAC\Desktop\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.pdb
 C:\Users\SENAC\Desktop\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.genruntimeconfig.cache
 C:\Users\SENAC\Desktop\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\ref\estruturas-condicionais.dll
+C:\Users\SENAC\Desktop\Aulas-de-CSharp\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Desktop\Aulas-de-CSharp\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.AssemblyInfoInputs.cache
+C:\Users\SENAC\Desktop\Aulas-de-CSharp\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.AssemblyInfo.cs
+C:\Users\SENAC\Desktop\Aulas-de-CSharp\Aulas-de-CSharp\estruturas-condicionais\obj\Debug\net7.0\estruturas-condicionais.csproj.CoreCompileInputs.cache

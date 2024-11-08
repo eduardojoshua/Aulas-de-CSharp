@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj": {}
+    "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj": {
+    "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj",
+        "projectUniqueName": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj",
         "projectName": "estruturas-condicionais",
-        "projectPath": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj",
+        "projectPath": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\Aulas-de-CSharp\\estruturas-condicionais\\estruturas-condicionais.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\estruturas-condicionais\\obj\\",
+        "outputPath": "C:\\Users\\SENAC\\Desktop\\Aulas-de-CSharp\\Aulas-de-CSharp\\estruturas-condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

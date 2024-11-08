@@ -60,6 +60,36 @@
 //         break;
 // }
 
-int idade = 18;
-string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
-Console.WriteLine(mensagem)
+// int idade = 18;
+// string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
+// Console.WriteLine(mensagem);
+
+
+
+
+//Pergunta a idade do usuário
+// Console.WriteLine("Digite sua idade: ")
+//Armazena na variavel idade um numero inteiro
+// int idade = int.parse(Console.ReadLine());
+//Pergunta ao usuário se está acompanhado de um adulto
+// Console.WriteLine("Você está acompanhado de um adulto? (sim/não)")
+//Armazena na variavel resposta o valor digitado pelo usuário
+// string resposta = Console.ReadLine().ToLower();
+
+// Converte a resposta do usuário em um valor booleano
+// bool acompanhadoPorAdulto = resposta == "sim";
+
+// bool possuiPresenca = false;
+// bool possuiMedia = true;
+
+// if (possuiPresenca == true && possuiMedia == true)
+// {
+//     Console.WriteLine("Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado");
+// }
+
+
+

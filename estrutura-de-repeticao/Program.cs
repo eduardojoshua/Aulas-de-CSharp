@@ -76,16 +76,8 @@
 
 // Console.WriteLine($"A palavra {palavra} tem {vogais} vogais");
 
-// Exercicio 4 (incompleto)
+// Exercicio 4
+// Exercicio 5
 
-Console.WriteLine("Digite uma palavra: ");
-string palavraUsuario = Console.ReadLine();
 
-if palavraUsuario == InverterString(palavraUsuario)
-{
-    Console.WriteLine($"A palavra {palavraUsuario} é um políndromo");
-}
-else
-{
-    Console.WriteLine($"A palavra {palavraUsuario} não é um políndromo");
-}
+

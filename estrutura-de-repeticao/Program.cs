@@ -47,7 +47,7 @@
 //     }
 // }
 
-// Console.WriteLine($"A item de todos os numeros pares de 1 a 100 é: {soma}");
+// Console.WriteLine($"A soma de todos os numeros pares de 1 a 100 é: {soma}");
 
 //Exercício 2
 
@@ -78,14 +78,14 @@
 
 // Exercicio 4 (incompleto)
 
-Console.WriteLine("Digite uma palavra: ")
-string palavraUsuario = Console.ReadLine()
+Console.WriteLine("Digite uma palavra: ");
+string palavraUsuario = Console.ReadLine();
 
-if palavraUsuario = InverterString(palavraUsuario)
+if palavraUsuario == InverterString(palavraUsuario)
 {
-    Console.WriteLine($"A palavra {palavraUsuario} é um políndromo")
+    Console.WriteLine($"A palavra {palavraUsuario} é um políndromo");
 }
 else
 {
-    Console.WriteLine($"A palavra {palavraUsuario} não é um políndromo")
+    Console.WriteLine($"A palavra {palavraUsuario} não é um políndromo");
 }
